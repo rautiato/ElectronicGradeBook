@@ -1,0 +1,6 @@
+D:\Study\CSharp\ElectronicGradeBook\ElectronicGradeBook\bin\Debug\ElectronicGradeBook.exe.config
+D:\Study\CSharp\ElectronicGradeBook\ElectronicGradeBook\bin\Debug\ElectronicGradeBook.exe
+D:\Study\CSharp\ElectronicGradeBook\ElectronicGradeBook\bin\Debug\ElectronicGradeBook.pdb
+D:\Study\CSharp\ElectronicGradeBook\ElectronicGradeBook\obj\Debug\ElectronicGradeBook.csprojAssemblyReference.cache
+D:\Study\CSharp\ElectronicGradeBook\ElectronicGradeBook\obj\Debug\ElectronicGradeBook.exe
+D:\Study\CSharp\ElectronicGradeBook\ElectronicGradeBook\obj\Debug\ElectronicGradeBook.pdb
